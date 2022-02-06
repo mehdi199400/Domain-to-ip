@@ -1,4 +1,4 @@
 <?php 
-$ip_address = gethostbyname("google.com");  
-echo "IP Address of google is - ".$ip_address;
+$ip_address = gethostbyname("php.net");  
+echo "IP Address of php is - ".$ip_address;
 ?>
